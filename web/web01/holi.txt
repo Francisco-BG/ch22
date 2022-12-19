@@ -1,0 +1,4 @@
+Mi nombre es Francisco, este repositorio es el primero que hago utilizando git y github.
+Me gustan mucho los idiomas, los videojuegos y la tecnología.
+También me llama la atención la literatura. Me gusta mucho comer.
+Viajar es otro pasatiempo que tengo.
